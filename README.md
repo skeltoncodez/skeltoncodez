@@ -1,7 +1,7 @@
 ### divine
 i make random things
 
-no site domains r dead
+<sub>no site domains r dead</sub>
 
 <!--
 **skeltoncodez/skeltoncodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
